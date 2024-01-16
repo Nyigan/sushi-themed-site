@@ -40,3 +40,7 @@ npm run build
 ```
 
 This is going to create an optimized production build and all the build files will be in dist folder.
+
+## Currently deployed here
+
+url: <https://nyigan.github.io/sushi-themed-site/>
