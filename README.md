@@ -28,4 +28,15 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 ## Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
+This repository contains the code corresponding to an in-depth
+tutorial available on our YouTube channel,
+<a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank">
+<b>JavaScript Mastery</b></a>.
+
+## To Deploy the Project
+
+```bash
+npm run build
+```
+
+This is going to create an optimized production build and all the build files will be in dist folder.

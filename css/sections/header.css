@@ -6,14 +6,14 @@
     flex: 1;
     display: flex;
     position: relative;
-    padding: 20px;
+    padding:20px;
 }
 .header__logo-overlay {
     position: absolute;
     inset: 0;
     width: 100%;
     background-color: var(--primary-color);
-    z-index: 1;
+    z-index: -1;
 }
 .header__logo h4 {
     padding-left: 30px;
@@ -24,13 +24,11 @@
 .header__menu,
 .header__menu-mobile {
     padding: 20px;
-
-    flex: 1.236;
+    flex: 1.235;
     display: flex;
     justify-content: flex-end;
     align-items: center;
     gap: 64px;
-
     list-style: none;
 }
 
