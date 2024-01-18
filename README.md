@@ -42,6 +42,5 @@ npm run build
 This is going to create an optimized production build and all the build files will be in dist folder.
 
 ## Currently deployed here
-It is not build, just deployed without the build. You can clone and run the build command above.
 
 url: <https://nyigan.github.io/sushi-themed-site/>
