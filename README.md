@@ -43,6 +43,6 @@ This is going to create an optimized production build and all the build files wi
 
 ## Currently deployed here
 
-Animations may or maynot work here.
+AOS Animations may or maynot work here.
 
 url: <https://nyigan.github.io/sushi-themed-site/>
