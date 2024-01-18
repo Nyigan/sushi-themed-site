@@ -43,6 +43,6 @@ This is going to create an optimized production build and all the build files wi
 
 ## Currently deployed here
 
-I just deployed without the build part. You can clone and run the build command above. Animations may or maynot work here.
+Animations may or maynot work here.
 
 url: <https://nyigan.github.io/sushi-themed-site/>
