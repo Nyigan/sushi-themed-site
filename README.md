@@ -36,4 +36,4 @@ This is going to create an optimized production build and all the build files wi
 
 ## Currently deployed here
 
-**[Sushi Themed Site] (https://sushi-themed.netlify.app/)**
+url: <https://sushi-themed.netlify.app/>
