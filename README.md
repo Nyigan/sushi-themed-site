@@ -29,7 +29,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 ## Tutorial
 
 This repository contains the code corresponding to an in-depth
-tutorial available on our YouTube channel,
+tutorial available on a YouTube channel,
 <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank">
 <b>JavaScript Mastery</b></a>.
 
